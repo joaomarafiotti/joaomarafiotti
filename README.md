@@ -33,6 +33,4 @@
   </a>
 </div>
 
-----
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaomarafiotti/578d8cbcad4b107cbb2d13dc8d8c1284/raw/cd67684205db26238fb4407e168c92022ea8a933/githubcard.svg"/>
+---------
